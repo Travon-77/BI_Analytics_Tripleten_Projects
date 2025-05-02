@@ -1,8 +1,7 @@
 # Zomato Sales Analysis
 
-**Project Type:** Business Intelligence Certification Project  
-**Tools Used:** Excel, Tableau, Power BI  
-**Duration:** April 2025
+**Tools Used:** Excel, Tableau 
+**Date:** April 2025
 
 ## 📊 Project Objective
 Analyze Zomato's regional restaurant sales data to uncover key performance trends and provide actionable insights to optimize marketing strategies and increase revenue.
