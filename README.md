@@ -1,35 +1,26 @@
-# Zomato Sales Analysis
+# 🧠 BI Analytics Projects
 
-**Tools Used:** Excel, Tableau 
-**Date:** April 2025
+Welcome to my Business Intelligence Analytics portfolio — a curated collection of projects developed during the TripleTen BI Analyst Bootcamp. Each case study reflects real-world scenarios where I translated raw data into actionable insights using tools like Excel, SQL, Tableau, and Power BI.
 
-## 📊 Project Objective
-Analyze Zomato's regional restaurant sales data to uncover key performance trends and provide actionable insights to optimize marketing strategies and increase revenue.
-
-## 🔍 Key Questions Explored
-- Which regions generate the most revenue?
-- Are there seasonal trends in restaurant sales?
-- What customer behaviors drive higher spending?
-
-## 🛠️ Process
-1. **Data Cleaning:** Used Excel for formatting, filtering, and removing inconsistencies.
-2. **ETL:** Extracted and structured data for analysis.
-3. **Analysis & Visualization:** Built Tableau and Power BI dashboards to reveal sales trends by region and season.
-4. **Insights & Recommendations:**
-   - Identified top-performing regions for targeted marketing.
-   - Suggested seasonal campaigns based on peak months.
-
-## 📈 Sample Visuals
-![Zomato_Executive_dashbord](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/blob/main/Zomato%20Sales%20Analysis/Zomato%20Executive%20Dashboard.png) 
-
-## 📂 Files Included
-[Raw_data_for-Zomato](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Zomato%20Sales%20Analysis/Raw%20data%20for%20Zomato)
-
-[Zomato_Analysis_Presentation](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/blob/main/Zomato%20Sales%20Analysis/Zomato%20Analysis%20Presentation/Zomato%20Sales%20Analysis%20Presentation.pdf)
-
-[Zomato_Insights](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/blob/main/Zomato%20Sales%20Analysis/Insights.jpeg) 
-
-## 🧠 Outcome
-Provided data-driven recommendations that could help Zomato allocate budget more effectively and boost sales in underperforming regions.
+> 📊 *From discovery to decision — storytelling through data analytics.*
 
 ---
+
+## 📁 Featured Projects
+
+| Title                                     | Description                                                                                           |
+|------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| [E-Commerce User Activity & Cohort Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/E-Commerce%20Store%20User%20Activity) | 🛒 Funnel and retention analysis using raw user activity logs and advanced spreadsheet techniques.     |
+| [Superstore Sales Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Superstore-Returns-Analysis)             | 📈 Regional sales performance, seasonality, and product-level profitability trends via Tableau.        |
+| [Zomato Sales Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Zomato%20Sales%20Analysis)                     | 🍽️ RFM-based customer segmentation and sales insights for Zomato restaurants using Power BI.           |
+| [Shopify App Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/shopify-app-analysis)                      | 🧩 Platform performance insights using KPIs and app review metrics from the Shopify App Store via Power BI. |
+
+---
+
+## 🔗 Explore More
+
+Visit my GitHub for full project files, dashboards, and documentation:  
+👉 [github.com/Travon-77](https://github.com/Travon-77)
+
+Let the data speak. Let's build something impactful.
+
