@@ -14,7 +14,7 @@ Welcome to my Business Intelligence Analytics portfolio — a curated collection
 | [Superstore Sales Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Superstore-Returns-Analysis)             | 📈 Regional sales performance, seasonality, and product-level profitability trends via Tableau.        |
 | [Zomato Sales Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Zomato%20Sales%20Analysis)                     | 🍽️ RFM-based customer segmentation and sales insights for Zomato restaurants using Power BI.           |
 | [Shopify App Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/shopify-app-analysis)                      | 🧩 Platform performance insights using KPIs and app review metrics from the Shopify App Store via Power BI. |
-
+| [Zuber Ride-Share Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Zuber_SQL_Analysis_Project)                      | 🚕 SQL-based case study for a ride-share startup. Explores company performance, weather impact on rides, and rider preferences using a relational database. |
 ---
 
 ## 🔗 Explore More
