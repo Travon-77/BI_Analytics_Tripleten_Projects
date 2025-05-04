@@ -36,9 +36,9 @@ This project analyzes Airbnb data to help a client make informed investment deci
 
 ## 📂 File Structure
 
-- `raw_data/`: Unedited original data
-- `cleaned_data/`: Cleaned datasets with new columns
-- `analysis/`: Pivot tables and charts
+- [Raw/Proccesed Data](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Manhattan%20Airbnb%20Market/Airbnb%20Raw%20Data)
+- [Manahattan Airbnb Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/Manhattan%20Airbnb%20Market/Pivot%20Tables)
+- [Project.xlsx](https://docs.google.com/spreadsheets/d/1SImqMSO-0WzPLal9oXJ4AvjD8zbAI5pObslfx3fm1ys/edit?usp=sharing)
 - `README.md`: Project documentation
 
 ## 🚀 Tools Used
