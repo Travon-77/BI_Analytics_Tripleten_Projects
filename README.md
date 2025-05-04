@@ -18,10 +18,9 @@ Welcome to my Business Intelligence Analytics portfolio — a curated collection
 | [Shopify App Analysis](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/tree/main/shopify-app-analysis)                      | 🧩 Platform performance insights using KPIs and app review metrics from the Shopify App Store via Power BI. |
 ---
 
-## 🔗 Explore More
+## 📫 Connect With Me
 
-Visit my GitHub for full project files, dashboards, and documentation:  
-👉 [github.com/Travon-77](https://github.com/Travon-77)
+Let's connect on [LinkedIn](www.linkedin.com/in/travonwalton) or [@Email](v.malikcollection@outlook.com)
 
-Let the data speak. Let's build something impactful.
+Let's build!
 
