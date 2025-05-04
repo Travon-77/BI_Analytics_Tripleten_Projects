@@ -20,7 +20,7 @@ Welcome to my Business Intelligence Analytics portfolio — a curated collection
 
 ## 📫 Connect With Me
 
-Let's connect on [LinkedIn](www.linkedin.com/in/travonwalton) or [@Email](v.malikcollection@outlook.com)
+Let's connect on [🌐LinkedIn](www.linkedin.com/in/travonwalton) or [📧Email](v.malikcollection@outlook.com)
 
 Let's build!
 
