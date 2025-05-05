@@ -65,8 +65,7 @@ The project delivers actionable insights into:
 
 ## 📂 Status
 ✅ Completed  
-📁 Files and SQL queries uploaded [Zuber_sql_queries](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/blob/main/Zuber_SQL_Analysis_Project/queries.sql)
-
+📁 Files and SQL queries uploaded [Zuber_sql_queries](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/blob/main/Zuber_SQL_Analysis_Project/queries_README.md)
 > Ready to inform data-driven decisions for Zuber’s strategic launch in Chicago.
 
 ---
