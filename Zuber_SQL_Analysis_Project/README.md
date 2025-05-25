@@ -1,4 +1,4 @@
-# 🚕 Zuber SQL Analysis Project
+# Zuber SQL Analysis Project
 
 Welcome to the **Zuber** SQL project — an end-to-end case study completed during the Business Intelligence Analyst TripleTen Bootcamp. In this project, you step into the role of a junior data analyst for Zuber, a new ride-sharing company launching in Chicago.
 
@@ -6,7 +6,7 @@ Your mission? To extract insights from a competitor's taxi ride database and eva
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Title:** Zuber SQL Analysis  
 **Tool:** SQL (PostgreSQL)  
@@ -14,12 +14,12 @@ Your mission? To extract insights from a competitor's taxi ride database and eva
 - Exploratory data analysis  
 - Taxi ride behavior segmentation  
 - Aggregation and CASE logic  
-- Weather condition impact on ride duration  
+- Weather conditions impact on ride duration  
 - Joins, grouping, and filtering by time and conditions
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The project is based on a SQL database that includes four core tables:
 
@@ -32,7 +32,7 @@ The project is based on a SQL database that includes four core tables:
 
 ---
 
-## 🧠 Business Tasks
+## Business Tasks
 
 ### Step 1: Exploratory Data Analysis
 - Count the number of taxi rides per company for **Nov 15–16, 2017**.
@@ -46,7 +46,7 @@ The project is based on a SQL database that includes four core tables:
 
 ---
 
-## 🧩 Key SQL Techniques Used
+## Key SQL Techniques Used
 - `JOIN` operations across multiple tables  
 - `CASE` statements for data classification  
 - Time-based filtering and aggregation  
@@ -55,7 +55,7 @@ The project is based on a SQL database that includes four core tables:
 
 ---
 
-## 📈 Outcome
+## Outcome
 The project delivers actionable insights into:
 - How ride volumes fluctuate by company
 - Brand performance comparisons
