@@ -13,9 +13,8 @@ Analyze Zomato's regional restaurant sales data to uncover key performance trend
 
 ## Process
 1. **Data Cleaning:** Used Excel for formatting, filtering, and removing inconsistencies.
-2. **ETL:** Extracted and structured data for analysis.
-3. **Analysis & Visualization:** Built Tableau and Power BI dashboards to reveal sales trends by region and season.
-4. **Insights & Recommendations:**
+2. **Analysis & Visualization:** Built Tableau and Power BI dashboards to reveal sales trends by region and season.
+3. **Insights & Recommendations:**
    - Identified top-performing regions for targeted marketing.
    - Suggested seasonal campaigns based on peak months.
 
