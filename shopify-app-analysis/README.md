@@ -18,26 +18,23 @@ The dataset includes 4 tables extracted from the Shopify App Store:
 
 ## Project Breakdown
 
-### 📈 Part 1: App Landscape
+### Part 1: App Landscape
 - **KPI Card**: Total number of unique apps
 - **Line Chart**: Total review counts over time (`lastmod`)
 - **Scatterplot**: Reviews count vs Average rating, with insights
 
-### 🗣️ Part 2: Reviews
+### 🗣 Part 2: Reviews
 - Created new calculated column: `helpful_reviews = rating * (1 + helpful_count)`
 - Built KPI card showing **average helpful reviews**
 - Created DAX column `developer_answered`, visualized avg rating by response
 
-### 🧮 Part 3: App Reviews
+###  Part 3: App Reviews
 - Linked `reviews` and `apps` tables on `app_id`
 - Visualized total ratings by developer
 - Corrected for skew by showing **average helpful reviews**
 - Identified **most responsive developers** using filtered bar chart
 
-## 📸 Visuals
-All visuals/screenshots are included in the `screenshots/` folder, organized by project part.
-
-## 🧠 Key Insights
+## Key Insights
 - Apps with high review counts don’t always correlate with high ratings
 - Developer responsiveness appears to influence ratings positively
 - Some developers have inflated ratings due to sheer volume, not quality
