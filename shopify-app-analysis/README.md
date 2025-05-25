@@ -1,22 +1,22 @@
-# 🛠️ Shopify App Analysis – BI Dashboard Project
+# Shopify App Analysis – BI Dashboard Project
 
-## 📌 Objective
+## Objective
 Analyze publicly available Shopify App Store data to understand key factors contributing to app success — including review patterns, developer responsiveness, and app popularity. Visualizations were created in Power BI and screenshots were captured to support findings.
 
-## 📊 Tools Used
+## Tools Used
 - **Power BI** (data modeling, DAX, dashboards)
 - **Microsoft Excel** (data source: `shopify.xlsx`)
 - **DAX** (for calculated columns and metrics)
 - **Power BI Visualizations** (KPIs, scatterplots, bar charts, line charts)
 
-## 🗂️ Dataset Overview
+## Dataset Overview
 The dataset includes 4 tables extracted from the Shopify App Store:
 - `apps`: App details including names, developers, ratings
 - `apps_categories`: Mapping between apps and categories
 - `categories`: App category names
 - `reviews`: User ratings, comments, helpfulness, developer responses
 
-## ✅ Project Breakdown
+## Project Breakdown
 
 ### 📈 Part 1: App Landscape
 - **KPI Card**: Total number of unique apps
