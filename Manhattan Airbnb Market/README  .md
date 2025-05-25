@@ -1,25 +1,25 @@
 
-# 🗂️ Spreadsheet Data Analysis: Manhattan Airbnb Market
+# Spreadsheet Data Analysis: Manhattan Airbnb Market
 
 This project analyzes Airbnb data to help a client make informed investment decisions in the Manhattan vacation rental market. The goal is to identify which **neighborhoods** and **property sizes** are most attractive and how much revenue they can generate.
 
-## 📌 Objectives
+## Objectives
 
 - Determine the most attractive neighborhoods and property sizes (bedrooms) for vacation rentals.
 - Estimate potential revenue for top-performing listings.
 
-## 🔍 Key Questions Answered
+## Key Questions Answered
 
 1. Which neighborhoods and property sizes are most attractive for vacation rentals?
 2. How much revenue did the top listings generate?
 
-## 📊 Dataset
+## Dataset
 
 **Source**: NYC Airbnb Open Data  
 - Listings and calendar data
 - Main metrics: `number_of_reviews_ltm`, `adjusted_price`, `available`
 
-## 🧹 Data Cleaning Steps
+## Data Cleaning Steps
 
 - Cleaned `neighborhood` column: removed inconsistent capitalization and trailing spaces → `neighborhood_clean`
 - Cleaned `bedrooms` column: replaced blanks with 0 (studio apartments) → `bedrooms_clean`
@@ -42,7 +42,7 @@ This project analyzes Airbnb data to help a client make informed investment deci
 - [Executive Summary](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/blob/main/Manhattan%20Airbnb%20Market/Executive%20summarry%20plus%20Recommndations.png)
 - `README.md`: Project documentation
 
-## 🚀 Tools Used
+## Tools Used
 
 - Microsoft Excel / Google Sheets
 - Pivot Tables
