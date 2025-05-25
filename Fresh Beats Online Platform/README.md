@@ -1,15 +1,15 @@
-# Fresh Beats BI Report Project 🎶
+# Fresh Beats BI Report Project 
 
 This project was completed as part of the TripleTen Business Intelligence Analyst program. It focuses on analyzing business data for **Fresh Beats**, an online music streaming and promotion platform, to address strategic challenges.
 
-## 📊 Project Objective
+## Project Objective
 
 Provide a stakeholder-ready report that:
 - Evaluates the effectiveness of artist promotion strategies.
 - Recommends ways to improve user engagement and conversion.
 - Suggests improvements for genre-based recommendation systems for emerging artists.
 
-## 🧠 Key Business Questions
+## Key Business Questions
 
 - What promotional strategies lead to the greatest ROI for artists?
 - What drives user engagement and helps convert free users to paid subscribers?
