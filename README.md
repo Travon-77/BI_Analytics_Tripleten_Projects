@@ -1,6 +1,7 @@
-# 💻 BI Analytics Projects
+# BI Analytics Projects
 
-Welcome to my Business Intelligence Analytics portfolio — a curated collection of projects developed during the TripleTen BI Analyst Bootcamp. Each case study reflects real-world scenarios where I translated raw data into actionable insights using tools like Excel, SQL, Tableau, and Power BI.
+Welcome to my BI portfolio — a collection of real-world projects from the TripleTen Bootcamp.
+Each case study showcases how I transformed raw data into insights using Excel, SQL, Tableau, and Power BI.
 
 > 📊 *From discovery to decision — storytelling through data analytics.*
 
