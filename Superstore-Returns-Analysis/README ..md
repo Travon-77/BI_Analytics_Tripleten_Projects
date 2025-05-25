@@ -1,13 +1,13 @@
-# 📦 Superstore Returns Analysis – Storytelling with Data
+# Superstore Returns Analysis – Storytelling with Data
 
-## 🧠 Objective
+## Objective
 This project investigates **why customers are returning orders** at a fictional Superstore. The CEO has requested a comprehensive dashboard to identify key return trends and support decisions that will reduce the volume of returned orders.
 
 The project uses Tableau for storytelling, data visualization, and dashboard creation, following a structured story arc.
 
 ---
 
-## 📊 Tools Used
+## Tools Used
 - **Tableau Public/Desktop** – For visualizations, dashboarding, and story presentation
 - **Excel (Superstore.xls)** – Dataset source
 - **Pen & Paper** – Dashboard mock-up planning
@@ -22,7 +22,7 @@ The project uses Tableau for storytelling, data visualization, and dashboard cre
 
 ---
 
-## 🔍 Analysis Highlights
+## Analysis Highlights
 
 ### 📈 What’s Causing Returns?
 - **Scatterplot** of total sales vs. total returns by subcategory  
@@ -34,7 +34,7 @@ The project uses Tableau for storytelling, data visualization, and dashboard cre
 
 ---
 
-## 📐 Dashboard Design
+## Dashboard Design
 - **3 low-fidelity dashboard mockups** created and evaluated
 - Final layout selected and structured using containers in Tableau
 - Final dashboard includes:
@@ -44,9 +44,9 @@ The project uses Tableau for storytelling, data visualization, and dashboard cre
 
 ---
 
-## 🧾 Story Presentation
+## Story Presentation
 
-### 📖 Story Arc Captions
+### Story Arc Captions
 1. **Overview of Returns Problem**
 2. **Key Metrics: What to Measure (Rate vs Total)**
 3. **Sales vs Returns Correlation**
@@ -59,7 +59,7 @@ The project uses Tableau for storytelling, data visualization, and dashboard cre
 
 ---
 
-## 🧠 Insights & Recommendations
+## Insights & Recommendations
 - Certain subcategories (e.g., technology) have **disproportionately high return rates**.
 - **Return rates vary by region**, suggesting operational or delivery issues.
 - **Customer segments with frequent returns** were identified for follow-up or targeting.
