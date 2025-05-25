@@ -3,15 +3,15 @@
 **Tools Used:** Excel, Tableau 
 **Date:** April 2025
 
-## 📊 Project Objective
+## Project Objective
 Analyze Zomato's regional restaurant sales data to uncover key performance trends and provide actionable insights to optimize marketing strategies and increase revenue.
 
-## 🔍 Key Questions Explored
+## Key Questions Explored
 - Which regions generate the most revenue?
 - Are there seasonal trends in restaurant sales?
 - What customer behaviors drive higher spending?
 
-## 🛠️ Process
+## Process
 1. **Data Cleaning:** Used Excel for formatting, filtering, and removing inconsistencies.
 2. **ETL:** Extracted and structured data for analysis.
 3. **Analysis & Visualization:** Built Tableau and Power BI dashboards to reveal sales trends by region and season.
@@ -29,7 +29,7 @@ Analyze Zomato's regional restaurant sales data to uncover key performance trend
 
 [Zomato_Insights](https://github.com/Travon-77/BI_Analytics_Tripleten_Projects/blob/main/Zomato%20Sales%20Analysis/Insights.jpeg) 
 
-## 🧠 Outcome
+## Outcome
 Provided data-driven recommendations that could help Zomato allocate budget more effectively and boost sales in underperforming regions.
   
 
