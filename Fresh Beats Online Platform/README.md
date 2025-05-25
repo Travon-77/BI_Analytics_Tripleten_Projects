@@ -27,7 +27,7 @@ Provide a stakeholder-ready report that:
 - `/visuals`: Charts supporting key insights
 - `dataset-insights.xlsx`: Original data + interpretations (optional)
 
-## 🚀 Tools Used
+## Tools Used
 
 - Google Docs & Sheets
 - Excel
