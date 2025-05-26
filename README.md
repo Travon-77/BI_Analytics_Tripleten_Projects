@@ -3,7 +3,7 @@
 Welcome to my BI portfolio — a collection of real-world projects from the TripleTen Bootcamp.
 Each case study showcases how I transformed raw data into insights using Excel, SQL, Tableau, and Power BI.
 
-> 📊 *From discovery to decision — storytelling through data analytics.*
+> *From discovery to decision — storytelling through data analytics.*
 
 ---
 
