@@ -67,7 +67,7 @@ The project uses Tableau for storytelling, data visualization, and dashboard cre
 
 
 ---
-[Click Here](https://public.tableau.com/views/SuperstoreProductReturnsAnalysis_17509581780560/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view Superstore Report Analysis
+[Click Here](https://public.tableau.com/views/SuperstoreProductReturnsDashboard/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view Superstore Report Analysis
 
 
 
