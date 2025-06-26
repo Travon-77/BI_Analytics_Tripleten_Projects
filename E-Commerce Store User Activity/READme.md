@@ -60,6 +60,9 @@ Cohort data was aggregated to calculate monthly retention rates. Each cohort rep
   2. `Executive Summary`
   3. `conversion_funnel`
   4. `retention_rates`
+ 
+  ---
+  [Click Here](https://docs.google.com/spreadsheets/d/168vtzSV2egNwq5CzniCQhKbuJp0yBobqaY3D6Kf69lM/edit?usp=sharing) to view E-Commerce Store Analysis
   
 
 
